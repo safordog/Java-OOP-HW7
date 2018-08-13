@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Существуют три корабля. На каждом из них 10 ящиков груза.
+ * Они одновременно прибыли в порт, в котором только два
+ * дока. Скорость разгрузки - 1 ящик в 0.5 сек. Напишите
+ * программу, которая, управляя кораблями, позволит им
+ * правильно разгрузить груз.
  */
 package homework7;
 
